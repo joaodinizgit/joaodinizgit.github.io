@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- 2023-12-25 seg 12:39 -->
+<!-- 2023-12-25 seg 10:57 -->
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Sitemap</title>
+<title>João Diniz</title>
 <meta name="author" content="João Diniz" />
+<meta name="description" content="Programação e aventuras viagens." />
+<meta name="keywords" content="programação, viagens, org-mode" />
 <meta name="generator" content="Org Mode" />
 <style>
   #content { max-width: 60em; margin: auto; }
@@ -200,18 +202,13 @@
  <a accesskey="H" href="/"> HOME </a>
 </div><div id="content" class="content">
 <header>
-<h1 class="title">Sitemap</h1>
-</header><ul class="org-ul">
-<li><a href="index.html">João Diniz</a></li>
-<li>posts
-<ul class="org-ul">
-<li><a href="posts/posts.html">Posts</a></li>
-</ul></li>
-</ul>
+<h1 class="title">João Diniz</h1>
+<p class="subtitle" role="doc-subtitle">Aqui escrevo desde programação até aventuras viagens.</p>
+</header>
 </div>
 <div id="postamble" class="status">
 <p class="author">Author: João Diniz</p>
-<p class="date">Created: 2023-12-25 seg 12:39</p>
+<p class="date">Created: 2023-12-25 seg 10:57</p>
 <p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
