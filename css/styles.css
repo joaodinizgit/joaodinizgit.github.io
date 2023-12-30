@@ -1,3 +1,5 @@
 body {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "Noto Sans", sans, "Noto Serif", serif;
+    font-size: 1.25em;
 }
+
